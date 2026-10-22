@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Absensi Siswa - SIT Insan Harapan Batam",
+  "description": "Aplikasi PWA Sistem Absensi Siswa untuk Yayasan Harapan Ibu Kepri & SIT Insan Harapan Batam dengan dukungan offline dan rekap kehadiran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
